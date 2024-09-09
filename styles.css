@@ -1,0 +1,40 @@
+body {
+    font-family: Arial;
+    text-align: center;
+    background-color: #f4f4f4;
+    padding: 100px;
+}
+
+.container {
+    max-width: 450px;
+    margin: 0 auto;
+    background: #fff;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+input[type="email"] {
+    width: 80%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #a75fd3;
+    color: white;
+    border-color: #f4f4f4;
+}
+
+button:hover {
+    background-color: #8914d3;
+}
+
+.animal-image {
+    width: 100%;
+    height: auto;
+    margin-top: 20px;
+}
+
